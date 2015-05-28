@@ -77,7 +77,6 @@ h4{
 	height: 370px;
 }
 .ficha-3 {
-	background-color: grey;
 	height: 370px;
 	background-image: url(../img/metodologia.jpg);
 	position: relative;
@@ -230,7 +229,7 @@ font-size: 22px;
 		/*BLOGS*/
   .blogs{
   	/*background-color: rgba(190, 184, 184, 0.29);*/
-  	background-image: url(../img/Blog.jpg..);
+  	background-image: url(../img/blog.jpg..);
   }
   .blog-1{
   	font-size: 41px;
